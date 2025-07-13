@@ -1,0 +1,7 @@
+default: lesson5_ex1
+build_dir: C:/Nordic/ncs/nrf_fundamental/lesson5_ex1/build
+domains:
+  - name: lesson5_ex1
+    build_dir: C:/Nordic/ncs/nrf_fundamental/lesson5_ex1/build/lesson5_ex1
+flash_order:
+  - lesson5_ex1
