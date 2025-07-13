@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Nordic/ncs/nrf_fundamental/lesson7_ex3/build/_sysbuild/sysbuild/images/CMakeFiles/lesson7_ex3"
+		},
+		{
+			"file" : "C:/Nordic/ncs/nrf_fundamental/lesson7_ex3/build/_sysbuild/sysbuild/images/CMakeFiles/lesson7_ex3.rule"
+		},
+		{
+			"file" : "C:/Nordic/ncs/nrf_fundamental/lesson7_ex3/build/_sysbuild/sysbuild/images/CMakeFiles/lesson7_ex3-complete.rule"
+		},
+		{
+			"file" : "C:/Nordic/ncs/nrf_fundamental/lesson7_ex3/build/_sysbuild/sysbuild/images/lesson7_ex3-prefix/src/lesson7_ex3-stamp/lesson7_ex3-build.rule"
+		},
+		{
+			"file" : "C:/Nordic/ncs/nrf_fundamental/lesson7_ex3/build/_sysbuild/sysbuild/images/lesson7_ex3-prefix/src/lesson7_ex3-stamp/lesson7_ex3-configure.rule"
+		},
+		{
+			"file" : "C:/Nordic/ncs/nrf_fundamental/lesson7_ex3/build/_sysbuild/sysbuild/images/lesson7_ex3-prefix/src/lesson7_ex3-stamp/lesson7_ex3-download.rule"
+		},
+		{
+			"file" : "C:/Nordic/ncs/nrf_fundamental/lesson7_ex3/build/_sysbuild/sysbuild/images/lesson7_ex3-prefix/src/lesson7_ex3-stamp/lesson7_ex3-install.rule"
+		},
+		{
+			"file" : "C:/Nordic/ncs/nrf_fundamental/lesson7_ex3/build/_sysbuild/sysbuild/images/lesson7_ex3-prefix/src/lesson7_ex3-stamp/lesson7_ex3-mkdir.rule"
+		},
+		{
+			"file" : "C:/Nordic/ncs/nrf_fundamental/lesson7_ex3/build/_sysbuild/sysbuild/images/lesson7_ex3-prefix/src/lesson7_ex3-stamp/lesson7_ex3-patch.rule"
+		},
+		{
+			"file" : "C:/Nordic/ncs/nrf_fundamental/lesson7_ex3/build/_sysbuild/sysbuild/images/lesson7_ex3-prefix/src/lesson7_ex3-stamp/lesson7_ex3-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"lesson7_ex3"
+		],
+		"name" : "lesson7_ex3"
+	}
+}

@@ -1,0 +1,7 @@
+default: lesson7_ex3
+build_dir: C:/Nordic/ncs/nrf_fundamental/lesson7_ex3/build
+domains:
+  - name: lesson7_ex3
+    build_dir: C:/Nordic/ncs/nrf_fundamental/lesson7_ex3/build/lesson7_ex3
+flash_order:
+  - lesson7_ex3
