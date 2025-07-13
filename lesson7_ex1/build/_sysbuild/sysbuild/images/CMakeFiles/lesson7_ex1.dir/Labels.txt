@@ -1,0 +1,13 @@
+# Target labels
+ lesson7_ex1
+# Source files and their labels
+C:/Nordic/ncs/nrf_fundamental/lesson7_ex1/build/_sysbuild/sysbuild/images/CMakeFiles/lesson7_ex1
+C:/Nordic/ncs/nrf_fundamental/lesson7_ex1/build/_sysbuild/sysbuild/images/CMakeFiles/lesson7_ex1.rule
+C:/Nordic/ncs/nrf_fundamental/lesson7_ex1/build/_sysbuild/sysbuild/images/CMakeFiles/lesson7_ex1-complete.rule
+C:/Nordic/ncs/nrf_fundamental/lesson7_ex1/build/_sysbuild/sysbuild/images/lesson7_ex1-prefix/src/lesson7_ex1-stamp/lesson7_ex1-build.rule
+C:/Nordic/ncs/nrf_fundamental/lesson7_ex1/build/_sysbuild/sysbuild/images/lesson7_ex1-prefix/src/lesson7_ex1-stamp/lesson7_ex1-configure.rule
+C:/Nordic/ncs/nrf_fundamental/lesson7_ex1/build/_sysbuild/sysbuild/images/lesson7_ex1-prefix/src/lesson7_ex1-stamp/lesson7_ex1-download.rule
+C:/Nordic/ncs/nrf_fundamental/lesson7_ex1/build/_sysbuild/sysbuild/images/lesson7_ex1-prefix/src/lesson7_ex1-stamp/lesson7_ex1-install.rule
+C:/Nordic/ncs/nrf_fundamental/lesson7_ex1/build/_sysbuild/sysbuild/images/lesson7_ex1-prefix/src/lesson7_ex1-stamp/lesson7_ex1-mkdir.rule
+C:/Nordic/ncs/nrf_fundamental/lesson7_ex1/build/_sysbuild/sysbuild/images/lesson7_ex1-prefix/src/lesson7_ex1-stamp/lesson7_ex1-patch.rule
+C:/Nordic/ncs/nrf_fundamental/lesson7_ex1/build/_sysbuild/sysbuild/images/lesson7_ex1-prefix/src/lesson7_ex1-stamp/lesson7_ex1-update.rule

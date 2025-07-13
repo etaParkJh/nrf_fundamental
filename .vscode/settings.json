@@ -1,5 +1,6 @@
 {
     "nrf-connect.applications": [
-        "${workspaceFolder}\\lesson5_ex1"
+        "${workspaceFolder}\\lesson5_ex1",
+        "${workspaceFolder}\\lesson7_ex1"
     ]
 }
